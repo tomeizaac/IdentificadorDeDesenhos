@@ -1,0 +1,15 @@
+#show_sketch
+{
+  margin: 15px;
+}
+
+#label, #confidence
+{
+  font-size: 20px;
+
+}
+
+canvas 
+  {
+    box-shadow: 1px 1px 40px gray;
+}
